@@ -9,12 +9,12 @@ function fblp(fbPageName,debug) {
     //Let's not do a seperate a css file...
     $('html').append('<style> \
         #fblp {position:relative;font-size:12px} \
-        #fblp p{font-size:12px !important;} \
-        #fblp a{font-size:12px !important;font-weight:bold;color:#3b5998;text-decoration:none;} \
+        #fblp p{font-size:12px;} \
+        #fblp a{font-size:12px;font-weight:bold;color:#3b5998;text-decoration:none;} \
         #fblp .fb-page-icon-wrap{height:100%;min-height:100px;width:10%;float:left;} \
         #fblp .fb-page-icon-wrap .fb-page-icon{position:relative;top:0;left:0;float:left;width:50px;height:50px;} \
         #fblp .fb-post-wrap{min-height:100px;margin-left:12px;float:left;width:85%;} \
-        #fblp .fb-page-link{margin-top:4px;} \
+        #fblp .fb-page-link{font-size:13px;margin-top:4px;} \
         #fblp .fb-message {margin:5px 0 5px 0;min-height:30px;} \
         #fblp .fb-page-link,#fblp .fb-message,#fblp .fb-date-created,#fblp .fb-pic-wrap{} \
         #fblp .fb-pic-wrap{width:60%;height:auto;margin:0;} \
