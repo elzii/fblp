@@ -1,6 +1,6 @@
 # fblp
 
-fbpl, or Facebook Latest Post, is a jQuery script that parses JSON to display the most recent facebook post of a given page. It's goal is to be extremely simple to implement. It is currently a work in progress.
+fblp, or Facebook Latest Post, is a jQuery script that parses JSON to display the most recent facebook post of a given page. It's goal is to be extremely simple to implement. It is currently a work in progress.
 
 ## Usage
 
